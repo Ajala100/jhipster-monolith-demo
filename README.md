@@ -1,0 +1,1 @@
+# jhipster-monolith-demo
